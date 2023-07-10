@@ -2,7 +2,7 @@
   <header>
     <div>
       <router-link :to="logoLink" class="logo">
-        TIL
+        Yeeun Study Planner
         <span v-if="isUserLogin">by {{ $store.state.username }}</span>
       </router-link>
     </div>
@@ -55,7 +55,7 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 10px 20px;
-  background-color: #927dfc;
+  background-color: #0d6830;
   z-index: 2;
   box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.05);
 }
