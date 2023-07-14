@@ -2,6 +2,12 @@
 
 # Vue.js 학습 노트 애플리케이션
 - 로그인, 회원가입 및 학습노트 데이터 수정및저장
+<img src="/vue-til/src/assets/login.png" width="50%" height="50%">
+<img src="/vue-til/src/assets/sign.png" width="50%" height="50%">
+<img src="/vue-til/src/assets/create.png" width="50%" height="50%">
+<img src="/vue-til/src/assets/post.png" width="50%" height="50%">
+<img src="/vue-til/src/assets/edit.png" width="50%" height="50%">
+
 
 # 상세내용 
 
